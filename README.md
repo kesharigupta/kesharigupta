@@ -1,6 +1,13 @@
 # Hi 👋, I'm Keshari Nandan
 
 
+## 🧠 About Me
+- 🎓 I'm a **B.Tech 3rd Year Computer Science Student**
+- 👨‍💻 Passionate about **Web Development, Android Development, and Machine Learning**
+- 📫 How to reach me: [keshari0011@gmail.com](mailto:keshari0011@gmail.com)
+- ⚡ Fun fact: I love solving real-world problems through code and building cool projects 🚀
+
+
 
 
 
