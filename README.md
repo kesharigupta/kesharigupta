@@ -1,28 +1,47 @@
-# Hi 👋, I'm Keshari Nandan
+# Hi there, I'm  Keshari Nandan👋
 
+![Profile Banner](https://your-image-link.com)
 
-## 🧠 About Me
-- 🎓 I'm a **B.Tech 3rd Year Computer Science Student**
-- 👨‍💻 Passionate about **Web Development, Android Development, and Machine Learning**
-- 📫 How to reach me: [keshari0011@gmail.com](mailto:keshari0011@gmail.com)
-- ⚡ Fun fact: I love solving real-world problems through code and building cool projects 🚀
+## 🌟 B.Tech Computer Science Student | Marwadi university 🌟
 
+I'm passionate about full-stack web development and always open to learning new technologies. I believe in teamwork, continuous learning, and taking feedback to grow. Here’s a little more about me!
 
+---
 
+## 🧳 About Me
 
+- 🎓 **B.Tech in Computer Science** from Marwadi University  
+- 🎯 **Completion Year**: 2026  
+- 💡 **Soft Skills**: Team player, hardworking, open for positive feedback, and always eager to learn new things.
 
-## 🚀 Languages and Tools:
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+## 🛠 Technical Skills
+
+### Frontend Development
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-teal?style=for-the-badge&logo=tailwind-css)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+---
+
+## 🌐 Connect with Me
+
+- [GitHub](https://github.com/keshari)
+- 📧 Email: keshari0011@gmail.com
+
+---
+
+*“Always open to new learning experiences!”*
