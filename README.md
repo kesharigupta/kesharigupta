@@ -1,6 +1,6 @@
 # Hi there, I'm  Keshari Nandan👋
 
-![Profile Banner](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+![Profile Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 🌟 B.Tech Computer Science Student | Marwadi university 🌟
 
@@ -34,7 +34,7 @@ I'm passionate about full-stack web development and always open to learning new 
 ### 📱 Android Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java)
@@ -46,6 +46,7 @@ I'm passionate about full-stack web development and always open to learning new 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
