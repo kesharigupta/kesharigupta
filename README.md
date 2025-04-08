@@ -1,6 +1,6 @@
 # Hi there, I'm  Keshari Nandan👋
 
-![Profile Banner](https://your-image-link.com)
+![Profile Banner](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
 ## 🌟 B.Tech Computer Science Student | Marwadi university 🌟
 
@@ -31,15 +31,29 @@ I'm passionate about full-stack web development and always open to learning new 
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
+### 📱 Android Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+
+## 🧰 Tools I Use
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ---
 
 ## 🌐 Connect with Me
 
-- [GitHub](https://github.com/keshari)
+- [GitHub](https://github.com/kesharigupta)
 - 📧 Email: keshari0011@gmail.com
 
 ---
