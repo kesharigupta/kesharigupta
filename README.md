@@ -27,6 +27,7 @@ I'm passionate about full-stack web development and always open to learning new 
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-teal?style=for-the-badge&logo=tailwind-css)
 
 ### Backend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
